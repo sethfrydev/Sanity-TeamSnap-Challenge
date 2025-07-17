@@ -5,7 +5,7 @@ import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
   name: 'default',
-  title: 'sanity-test',
+  title: 'TeamSnap Challenge',
 
   projectId: 'xt2a4d0a',
   dataset: 'production',
