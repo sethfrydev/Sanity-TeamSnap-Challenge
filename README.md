@@ -1,4 +1,4 @@
-# Sanity Test Project
+# Sanity Test Project - TeamSnap
 
 This project is a monorepo containing a Next.js web application and a Sanity Studio for content management.
 
